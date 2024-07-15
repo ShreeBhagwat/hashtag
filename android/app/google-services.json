@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1096876598477",
+    "project_id": "hashtag-hero-f99b7",
+    "storage_bucket": "hashtag-hero-f99b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096876598477:android:cd43bc8fa2e48510b27584",
+        "android_client_info": {
+          "package_name": "com.example.hashtag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096876598477-mlbg2l1dh05mbo13jp16jnrcjghkq28r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGf6g2cj0ZqiFkwVT1TwfXjbKzg5avyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096876598477-mlbg2l1dh05mbo13jp16jnrcjghkq28r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096876598477-svodlo26o8h4ue9fuuhqnfpp6etvoi77.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseGenkit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
