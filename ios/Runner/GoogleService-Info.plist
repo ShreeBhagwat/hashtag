@@ -2,22 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>1096876598477-4g8l6k9deelumkqkqq73nqcfv3i6v60m.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1096876598477-4g8l6k9deelumkqkqq73nqcfv3i6v60m</string>
 	<key>API_KEY</key>
-	<string>AIzaSyABSP6WpZjY9HCyfxWO4z3L0b1NNab2xLs</string>
+	<string>AIzaSyD96UWtSdEH6qKLdBlLpCA1ApqKpwG9IXw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1096876598477</string>
+	<string>983180686249</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.hashtag</string>
 	<key>PROJECT_ID</key>
-	<string>hashtag-hero-f99b7</string>
+	<string>genkit-compass-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>hashtag-hero-f99b7.appspot.com</string>
+	<string>genkit-compass-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1096876598477:ios:10555f1928e8c677b27584</string>
+	<string>1:983180686249:ios:cb35e19d059d8a923b8ab8</string>
 </dict>
 </plist>

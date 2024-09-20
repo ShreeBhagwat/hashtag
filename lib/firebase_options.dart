@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAYGf6g2cj0ZqiFkwVT1TwfXjbKzg5avyM',
-    appId: '1:1096876598477:android:cd43bc8fa2e48510b27584',
-    messagingSenderId: '1096876598477',
-    projectId: 'hashtag-hero-f99b7',
-    storageBucket: 'hashtag-hero-f99b7.appspot.com',
+    apiKey: 'AIzaSyB_AdpvQk2_Z2DqQ0E6QMi7eQcePcrHhoI',
+    appId: '1:983180686249:android:01af30069e5566d43b8ab8',
+    messagingSenderId: '983180686249',
+    projectId: 'genkit-compass-app',
+    storageBucket: 'genkit-compass-app.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyABSP6WpZjY9HCyfxWO4z3L0b1NNab2xLs',
-    appId: '1:1096876598477:ios:10555f1928e8c677b27584',
-    messagingSenderId: '1096876598477',
-    projectId: 'hashtag-hero-f99b7',
-    storageBucket: 'hashtag-hero-f99b7.appspot.com',
-    iosClientId: '1096876598477-4g8l6k9deelumkqkqq73nqcfv3i6v60m.apps.googleusercontent.com',
+    apiKey: 'AIzaSyD96UWtSdEH6qKLdBlLpCA1ApqKpwG9IXw',
+    appId: '1:983180686249:ios:cb35e19d059d8a923b8ab8',
+    messagingSenderId: '983180686249',
+    projectId: 'genkit-compass-app',
+    storageBucket: 'genkit-compass-app.appspot.com',
     iosBundleId: 'com.example.hashtag',
   );
+
 }
